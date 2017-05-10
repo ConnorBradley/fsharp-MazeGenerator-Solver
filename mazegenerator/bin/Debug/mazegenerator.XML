@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>mazegenerator</name></assembly>
+<members>
+<member name="P:Program.rnd">
+<summary>
+ A maze generator and solver created by Connor Bradley, 2017
+</summary>
+</member>
+</members>
+</doc>
